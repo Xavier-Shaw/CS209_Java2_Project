@@ -1,5 +1,5 @@
 # CS209_Java2_Project
-Final Project of SUSTech CS209  
+Final Project of SUSTech 2022Spring CS209  
 ## Team Member
 12012902 Yuwei Xiao & 12012719 Sirui Li  
 ## Intro
